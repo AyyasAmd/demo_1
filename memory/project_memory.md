@@ -1,4 +1,4 @@
-# Project Memory — Demo 1
+# Project Memory — Gmail Generator
 
 ## Purpose
 
