@@ -1,4 +1,4 @@
-# Demo 1 — Build Prompt
+# Gmail Generator — Build Prompt
 
 Copy and paste this prompt into Cursor while working inside `demo_1/`.
 
