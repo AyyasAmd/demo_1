@@ -1,4 +1,4 @@
-# Demo 1 — Specification-Driven Development
+# Gmail Generator — Specification-Driven Development
 
 ## Application
 
