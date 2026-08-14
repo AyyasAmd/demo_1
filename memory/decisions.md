@@ -1,4 +1,4 @@
-# Decisions Log — Demo 1
+# Decisions Log — Gmail Generator
 
 Track decisions made while building the AI Email Generator.
 
